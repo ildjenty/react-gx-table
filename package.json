@@ -1,0 +1,12 @@
+{
+  "name": "react-gx-table",
+  "version": "0.0.0",
+  "description": "WIP!",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Sachio Takamagari",
+  "repository": {
+    "url": "https://github.com/ildjenty/react-gx-table"
+  },
+  "license": "MIT"
+}
